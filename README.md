@@ -1,6 +1,6 @@
 # ToDO-List
 
-This project is a joint contribution of [Robin Rawat](https://www.linkedin.com/in/robin-rawat-a0592915b/).
+
 
 # Operation:
 It is a Todo list .
