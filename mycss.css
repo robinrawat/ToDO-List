@@ -1,0 +1,66 @@
+body{
+    background: url(photo.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.cross{
+    text-decoration: line-through;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    padding: 20px;
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 100px;
+    background: white;
+    border-radius: 6px;
+    border-width: thin medium thick 10px;
+    box-shadow: 5px 10px 20px ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ol li{
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+ol li{
+   background: #ddd;
+}
+
+input {
+    border: none;
+    width: 65%;
+    padding: 10px;
+    float: left;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: azure;
+}
+
+.button {
+    background-color: #001f3f; 
+    border: none;
+    color: white;
+    padding: 10px;
+    width:25%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ol li {
+    padding: 10px;
+    opacity: 0.8;
+    width: 310px;
+    margin-left: 470px;
+    font-size:100%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+}
